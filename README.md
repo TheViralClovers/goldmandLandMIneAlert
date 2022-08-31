@@ -7,5 +7,8 @@ To use this,
 2) run "python main.py"
 
 requirements:
-  win10toast
-  requests
+
+-win10toast
+
+-requests
+
